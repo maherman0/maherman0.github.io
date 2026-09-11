@@ -11,7 +11,7 @@ labels:
   - StackOverflow
 ---
 
-<img class="img-fluid rounded mx-auto d-block mb-4" width="300px" src="../img/smart-questions/rtfm.png" alt="RTFM cartoon">
+<img class="img-fluid rounded mx-auto d-block mb-4" width="300px" src="../img/image.png">
 
 ### What is a SMART question?
 
