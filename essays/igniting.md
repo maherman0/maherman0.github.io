@@ -10,7 +10,7 @@ labels:
   - Learning
 ---
 
-<img width="500px" class="rounded float-start pe-4" src="../img/image.jpeg">
+
 
 ###### Learning Type Script
 
@@ -19,6 +19,8 @@ Typescript like many other languages can be picked up if you have experience in 
 ###### Javascript vs Typescript
 
 People may think Typescript and Javascript are the same thing. A lot of the syntax are very similar to each other, but if you look closely some things may not run in Typescript that would normally run in Javascript. Why? Well it's in the name Typescript, it takes into account the types of the things that are being compiled including the functions and variables. This is how Typescript separates compared to Javascript and even Java, but Typescript is unique in that it only allows good code to be run. Imagine if you had set age to 15, but you changed it to “fifteen”. In Javascript, this code would run just fine even though there is a type mismatch. Now try the same in Typescript and you will get an error. 
+
+<img width="500px" class="rounded float-start pe-4" src="../img/image.jpeg">
 
 ###### Athletic Software Engineering
 
