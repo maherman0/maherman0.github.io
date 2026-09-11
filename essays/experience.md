@@ -9,7 +9,7 @@ labels:
   - Engineering
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/img.jpeg">
+<img width="200px" class="rounded float-start pe-4" src="../img/image.jpeg">
 
 ### My Future
 
