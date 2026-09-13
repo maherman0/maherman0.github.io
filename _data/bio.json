@@ -24,11 +24,11 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "Java", "Javascript", "HTML", "CSS" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "Data entry", "Git/GitHub", "IT" ]
     }
   ],
   "education": [
@@ -38,75 +38,50 @@
       "studyType": "B.S.",
       "startDate": "2025-09-01",
       "endDate": "Present",
-      "courses": [
+      "courses": [ ICS 111, ICS 211, ICS 141, ICS 241
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Hawaii Baptist Academy",
+      "position": "Web Development Teacher",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2024-08-01",
+      "endDate": "2024-12-10",
+      "summary": "Taught a web development course to a class of middle schoolers",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Desinged a curriculum to teach HTML and CSS syntax and to build their own personal site",
+        "Created study and retention materials to help memorization"
       ]
     },
     {
-      "company": "UH Information Technology Services",
+      "company": "Information Technology Intern",
       "position": "Help Desk Consultant",
       "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "startDate": "2024-06-11",
+      "endDate": "2024-07-25",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Worked with a team of IT specialists in degugging hardware issues, fixing and installing TVs, tuning soundboards",
+        "Inputted data and Distributed technology to 1000 students"
+        
       ]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
-  ],
+
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Manoa Merit Scholarship",
+      "date": "2025-Present",
+      "awarder": "University of Hawaii",
+      "summary": "Scholarships awarded to incoming freshmen who maintained a high gpa"
     },
     {
-      "title": "First place",
+      "title": "CNS Achievement Scholarship",
       "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "awarder": "University of Hawaii College of Natural Sciences",
+      "summary": "Awarded to high achieving students to fund their studies"
     }
   ],
   "references": [
