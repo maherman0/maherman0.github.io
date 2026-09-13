@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/P1.png
+image: img/P1-square.png
 title: "Intro to Web Development"
 date: 2024
 published: true
