@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/FC1.jpg
+image: img/FC1-square.jpg
 title: "Flashcards"
 date: 2026
 published: true
