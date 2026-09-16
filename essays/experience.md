@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Future of Programmers"
+title: "Future of Programming"
 # All dates must be YYYY-MM-DD format!
 date: 2026-09-11
 published: true
