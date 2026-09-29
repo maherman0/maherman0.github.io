@@ -5,7 +5,7 @@ title: "Pain, but good"
 date: 2026-09-24
 published: true
 labels:
-  - Engineering
+  - ESLint
 
 #My Experience
 
