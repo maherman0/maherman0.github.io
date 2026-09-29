@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Pain, but good"
+title: "Pain, but Good"
 date: 2026-09-24
 published: true
 labels:
